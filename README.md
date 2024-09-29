@@ -5,7 +5,7 @@
 #### By *Nelly Mwende Mwendwa*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+It's a repository that shows 3 java programs ;Student grade generator, a speed detector and a net salary calculator
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
