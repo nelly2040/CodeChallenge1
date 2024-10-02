@@ -28,8 +28,8 @@ Javascript
 ## Support and contact details
 github.com/nelly2040
 
-### License
+License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+Copyright (c) 2024.
 
 
